@@ -1,1 +1,1 @@
-# Alzheimer_predicition_ensemble_transfer_learning
+# Alzheimer_prediction_ensemble_transfer_learning
